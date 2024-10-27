@@ -1,2 +1,2 @@
 # ETHZ-Advanced-Machine-Learning
-self-learning program
+https://ml2.inf.ethz.ch/courses/aml/
